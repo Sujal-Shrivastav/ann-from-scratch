@@ -83,7 +83,7 @@ After 1000 epochs of training, the model achieved a test accuracy of **98%** on 
 
 ### Output
 
-(images/Output.png)
+![Output](images/Output.png)
 
 
 ### Confusion Matrix & Loss Curve
